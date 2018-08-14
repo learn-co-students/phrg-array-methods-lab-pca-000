@@ -60,4 +60,8 @@ This method takes in an argument of an array and should return the last element 
 
 This method takes in an argument of an array and should return the size, or length, of that array. Use the `#size` method on that array to get this test passing.
 
+## Does this need an update?
+
+Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-array-methods-lab/pulls) or [pull-request](https://github.com/learn-co-curriculum/phrg-array-methods-lab/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 <p data-visibility='hidden'>PHRG Array Methods Lab</p>
